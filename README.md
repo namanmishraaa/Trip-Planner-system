@@ -1,5 +1,5 @@
 # Personalised Travel Recommender & Planner
-### Visit the currently deployed version [here](https://travel-itinerary-generator.streamlit.app/).
+### Visit the currently deployed version [here](https://trip-planner-system.streamlit.app/).
 
 ![cover_image](./data/Cover-Img.gif)
 
